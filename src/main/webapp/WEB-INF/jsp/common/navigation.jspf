@@ -1,0 +1,22 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="/">TodoApp</a>
+        <div class="collapse navbar-collapse justify-content-between">
+            <!-- Left side: Welcome -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <span class="navbar-text text-white">
+                        Welcome, ${username}
+                    </span>
+                </li>
+            </ul>
+
+            <!-- Right side: Logout -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link btn btn-sm btn-outline-light" href="/logout">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
