@@ -14,10 +14,6 @@ A simple and elegant web-based **Todo List Application** built using **Spring Bo
 📸 Screenshots
 ---
 <img width="400" alt="Screenshot 2025-06-27 at 05 01 04" src="https://github.com/user-attachments/assets/1e7cf733-767b-4475-afdf-b034cdf90d44" />
-<br>
-
-<img width="400" alt="Screenshot 2025-06-27 at 05 01 31" src="https://github.com/user-attachments/assets/688f427d-65ab-4ad0-a130-5c38904dacd4"/>
-
 
 ## ✨ Features
 
